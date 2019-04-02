@@ -1,0 +1,16 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "Gulp v4 sample",
+  "keywords": ["Gulp", "Streaming build system", "Gulp 4", "Gulp typescript", "Gulp sass scss less"],
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gulp": "^4.0.0"
+  },
+  "devDependencies": {}
+}
